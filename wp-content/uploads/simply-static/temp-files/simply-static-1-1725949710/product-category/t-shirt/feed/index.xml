@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T-Shirt &#8211; Coder Clothes Store</title>
+	<atom:link href="https://https://xdharmendra.github.io/Ecommerce-wordpress/product-category/t-shirt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://xdharmendra.github.io/Ecommerce-wordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Aug 2024 09:08:07 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://https://xdharmendra.github.io/Ecommerce-wordpress/wp-content/uploads/2024/08/fashion-1.png</url>
+	<title>T-Shirt &#8211; Coder Clothes Store</title>
+	<link>https://https://xdharmendra.github.io/Ecommerce-wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Short Sleeve T-Shirt</title>
+		<link>https://https://xdharmendra.github.io/Ecommerce-wordpress/product/short-sleeve-t-shirt/</link>
+					<comments>https://https://xdharmendra.github.io/Ecommerce-wordpress/product/short-sleeve-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 28 Aug 2024 08:40:13 +0000</pubDate>
+				<guid isPermaLink="false">https://https://xdharmendra.github.io/Ecommerce-wordpress/?post_type=product#038;p=28</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur?Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis,]]></description>
+										<content:encoded><![CDATA[<p><strong><img fetchpriority="high" decoding="async" class="wp-image-125 alignleft" src="https://https://xdharmendra.github.io/Ecommerce-wordpress/wp-content/uploads/2024/08/No-BG3.png" alt="" width="206" height="263" />Lorem ipsum</strong> dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur?</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur?Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur?Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ea aut iure architecto nihil cum dignissimos a distinctio similique pariatur optio perferendis, placeat, obcaecati repudiandae iusto assumenda eveniet? Esse, pariatur?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://xdharmendra.github.io/Ecommerce-wordpress/product/short-sleeve-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
